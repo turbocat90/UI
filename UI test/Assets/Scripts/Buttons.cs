@@ -6,13 +6,13 @@ public class Buttons : MonoBehaviour
 {
     public GameObject ShopPanel;
     private bool _activeShopPanel;
-    public void StartDayButon()
-    {
-        Debug.Log("Start Day");
-    }
     public void SettingsButton()
     {
         Debug.Log("Open Settings");
+    }
+    public void StartButton()
+    {
+        Debug.Log("Stard Day");
     }
     public void ShopButton()
     {
