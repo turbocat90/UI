@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class CoinsAndBonusScorer : MonoBehaviour
 {
-    public static int coinScore;
+    public static int coinScore = 0;
     public static int buyCoinsFree = 50;
-    public static int foodBusterScore;
-    public static int timeBusterScore;
+    public static int foodBusterScore = 0;
+    public static int timeBusterScore = 0;
     public static int foodBusterCoast = 50;
     public static int timeBusterCoast = 50;
 }

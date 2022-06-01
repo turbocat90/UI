@@ -1029,7 +1029,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 438601463}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1766191584}
+        m_TargetAssemblyTypeName: Buttons, Assembly-CSharp
+        m_MethodName: UseTimeBuster
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &438601463
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2730,7 +2742,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1557056672}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1766191584}
+        m_TargetAssemblyTypeName: Buttons, Assembly-CSharp
+        m_MethodName: UseFoodBuster
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1557056672
 MonoBehaviour:
   m_ObjectHideFlags: 0

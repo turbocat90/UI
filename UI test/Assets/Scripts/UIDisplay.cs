@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class UIDisplay : MonoBehaviour
 {
-    public Text CoinScore;
+    public Text CoinScore;  
     public Text FoodBuster;
     public Text TimeBuster;
     private void Update() 
